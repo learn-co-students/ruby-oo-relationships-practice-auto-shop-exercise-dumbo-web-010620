@@ -12,7 +12,7 @@ mechanic1 = Mechanic.new("Mechanic_1", "Exotic")
 mechanic2 = Mechanic.new("Mechanic_2", "Clunker")
 mechanic3 = Mechanic.new("Mechanic_3", "Antique")
 mechanic4 = Mechanic.new("Mechanic_4", "Exotic")
-mechanic5 = Mechanic.new("Mechanic_5", "Exotic")
+mechanic5 = Mechanic.new("Mechanic_1", "Exotic")
 
 
 car1 = Car.new("Make_1", "Model_1", "Exotic", owner1)

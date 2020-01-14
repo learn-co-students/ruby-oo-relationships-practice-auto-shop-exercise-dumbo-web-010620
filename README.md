@@ -15,14 +15,14 @@ Here's what we need to be able to do.
   <!-- - CarOwner.all
   Get an array of all owners -->
 
-  - CarOwner#cars
-  Get an array of all the cars that a specific owner has
+  <!-- - CarOwner#cars
+  Get an array of all the cars that a specific owner has -->
 
-  - CarOwner#mechanics
-  Get an array of all the mechanics that a specific owner goes to
+  <!-- - CarOwner#mechanics
+  Get an array of all the mechanics that a specific owner goes to -->
 
-  - CarOwner.average_owned
-  Get the average amount of cars owned for all owners
+  <!-- - CarOwner.average_owned
+  Get the average amount of cars owned for all owners -->
 
 **Car**
 
@@ -43,9 +43,9 @@ Here's what we need to be able to do.
   <!-- - Mechanic#cars
   Get an array of all cars that a mechanic services -->
 
-  - Mechanic#car_owners
-  Get an array of all the car owners that go to a specific mechanic
+  <!-- - Mechanic#car_owners
+  Get an array of all the car owners that go to a specific mechanic -->
 
-  - Mechanic#car_owner_names
+  <!-- - Mechanic#car_owner_names
   Get an array of the names of all car owners who
-  go to a specific mechanic
+  go to a specific mechanic -->
