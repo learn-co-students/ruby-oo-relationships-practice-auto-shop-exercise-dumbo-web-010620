@@ -12,25 +12,25 @@ Here's what we need to be able to do.
 
 **CarOwner**
 
-  - Get a list of all owners
+  <!-- - Get a list of all owners - DONE -->
 
-  - Get a list of all the cars that a specific owner has
+  <!-- - Get a list of all the cars that a specific owner has using Car.all? -->
 
-  - Get a list of all the mechanics that a specific owner goes to
-
-  - Get the average amount of cars owned for all owners
+  <!-- - Get a list of all the mechanics that a specific owner goes to --> 
+<!-- 
+  - Get the average amount of cars owned for all owners -->
 
 **Car**
 
-  - Get a list of all cars
+  <!-- - Get a list of all cars - DONE
 
   - Get a list of all car classifications
-
-  - Get a list of mechanics that have an expertise that matches the car classification
+   -->
+  - Get a list of mechanics that have an expertise(specialty) that matches the car (classification)
 
 **Mechanic**
 
-  - Get a list of all mechanics
+  <!-- - Get a list of all mechanics - DONE -->
 
   - Get a list of all cars that a mechanic services
 
